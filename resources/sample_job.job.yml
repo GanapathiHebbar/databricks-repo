@@ -7,7 +7,7 @@ resources:
 
       schedule:
         # Run this job daily at 8 PM UTC.
-        quartz_cron_expression: "0 0 20 * * ?"
+        quartz_cron_expression: "0 0 21 * * ?"
         timezone_id: UTC
 
       #email_notifications:
